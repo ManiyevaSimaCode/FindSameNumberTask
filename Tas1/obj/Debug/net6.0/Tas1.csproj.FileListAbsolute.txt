@@ -1,0 +1,15 @@
+C:\Users\ClassTime\source\repos\Tas1\Tas1\bin\Debug\net6.0\Tas1.exe
+C:\Users\ClassTime\source\repos\Tas1\Tas1\bin\Debug\net6.0\Tas1.deps.json
+C:\Users\ClassTime\source\repos\Tas1\Tas1\bin\Debug\net6.0\Tas1.runtimeconfig.json
+C:\Users\ClassTime\source\repos\Tas1\Tas1\bin\Debug\net6.0\Tas1.dll
+C:\Users\ClassTime\source\repos\Tas1\Tas1\bin\Debug\net6.0\Tas1.pdb
+C:\Users\ClassTime\source\repos\Tas1\Tas1\obj\Debug\net6.0\Tas1.csproj.AssemblyReference.cache
+C:\Users\ClassTime\source\repos\Tas1\Tas1\obj\Debug\net6.0\Tas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\source\repos\Tas1\Tas1\obj\Debug\net6.0\Tas1.AssemblyInfoInputs.cache
+C:\Users\ClassTime\source\repos\Tas1\Tas1\obj\Debug\net6.0\Tas1.AssemblyInfo.cs
+C:\Users\ClassTime\source\repos\Tas1\Tas1\obj\Debug\net6.0\Tas1.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\source\repos\Tas1\Tas1\obj\Debug\net6.0\Tas1.dll
+C:\Users\ClassTime\source\repos\Tas1\Tas1\obj\Debug\net6.0\refint\Tas1.dll
+C:\Users\ClassTime\source\repos\Tas1\Tas1\obj\Debug\net6.0\Tas1.pdb
+C:\Users\ClassTime\source\repos\Tas1\Tas1\obj\Debug\net6.0\Tas1.genruntimeconfig.cache
+C:\Users\ClassTime\source\repos\Tas1\Tas1\obj\Debug\net6.0\ref\Tas1.dll
